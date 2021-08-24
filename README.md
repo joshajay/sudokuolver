@@ -44,58 +44,106 @@ Author: Ajay Joshi, email: joshi.ajay@gmail.com
 
 
 Total digits found: 36
+
 Iteration 1
+
 Number found: 1 [1] [1] [3] > square uniqueness
+
 Number found: 1 [2] [2] [3] > square uniqueness
+
 Number found: 1 [5] [2] [1] > square uniqueness
+
 Number found: 1 [6] [3] [3] > square uniqueness
+
 Number found: 3 [1] [2] [1] > square uniqueness
+
 Number found: 3 [6] [2] [1] > square uniqueness
+
 Number found: 3 [8] [1] [2] > square uniqueness
+
 Number found: 3 [9] [2] [2] > square uniqueness
+
 Number Found: 3 [4] [1] [3] > row uniqueness
+
 Number found: 4 [7] [1] [2] > square uniqueness
+
 Number found: 4 [9] [3] [1] > square uniqueness
+
 Number found: 5 [3] [3] [2] > square uniqueness
+
 Number found: 5 [8] [3] [1] > square uniqueness
+
 Number found: 5 [9] [1] [1] > square uniqueness
+
 Number Found: 5 [4] [3] [1] > row uniqueness
+
 Number found: 5 [6] [2] [3] > column uniqueness
+
 Number found: 6 [4] [2] [3] > square uniqueness
+
 Number found: 6 [8] [2] [1] > square uniqueness
+
 Number Found: 6 [1] [2] [2] > row uniqueness
+
 Number Found: 6 [2] [3] [2] > row uniqueness
+
 Number Found: 6 [5] [3] [3] > row uniqueness
+
 Number found: 7 [3] [2] [3] > square uniqueness
+
 Number found: 7 [7] [3] [3] > square uniqueness
+
 Number found: 7 [8] [1] [3] > square uniqueness
+
 Number Found: 7 [1] [1] [1] > row uniqueness
+
 Number Found: 7 [2] [3] [1] > row uniqueness
+
 Number Found: 7 [5] [1] [2] > row uniqueness
+
 Number found: 8 [5] [2] [3] > square uniqueness
+
 Number Found: 8 [4] [1] [1] > row uniqueness
+
 Number Found: 8 [9] [3] [3] > row uniqueness
+
 Number found: 8 [1] [3] [3] > column uniqueness
+
 Number found: 9 [2] [1] [3] > square uniqueness
+
 Number found: 9 [3] [2] [2] > square uniqueness
+
 Number found: 9 [5] [1] [1] > square uniqueness
+
 Number found: 9 [6] [3] [1] > square uniqueness
+
 Number found: 9 [9] [2] [3] > square uniqueness
+
 Number found: 2 [1] [3] [2] > square uniqueness
+
 Number found: 2 [3] [1] [1] > square uniqueness
+
 Number found: 2 [5] [2] [2] > square uniqueness
+
 Number found: 2 [6] [1] [3] > square uniqueness
+
 Number found: 2 [7] [2] [1] > square uniqueness
+
 Number found: 2 [9] [1] [2] > square uniqueness
+
 Number found: 4 [4] [2] [1] > square uniqueness
+
 Number found: 4 [5] [3] [2] > square uniqueness
+
 Number found: 8 [7] [2] [2] > square uniqueness
 
 Done! Answer found in just 1 iterations!!
 
 
 Numbers remaining: 0
+
 Data file: matrix.csv:
+
 Below is the final answer:
 
 7	5	1	4	8	9	2	6	3	
@@ -119,7 +167,7 @@ Below is the final answer:
 
 C:\Perl scripts\sudokusolver>
 
-~End of sample output~
+End of sample output
 
 **Contact me:**
 Please write your feedback and suggestions to joshi.ajay@gmail.com
