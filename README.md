@@ -1,4 +1,4 @@
-# sudokuolver
+# sudokusolver
 **Introduction:**
 Sudoku Solver is a command line utility which will solve 9 x 9 Sudoku problems for you.
 This program is developed in Perl.
